@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//ion-checkbox[@checked=\"false\"]\"}\n  (Session info: chrome=132.0.6834.196)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6FD5802F5+28725]\n\t(No symbol) [0x00007FF6FD4E2AE0]\n\t(No symbol) [0x00007FF6FD37510A]\n\t(No symbol) [0x00007FF6FD3C93D2]\n\t(No symbol) [0x00007FF6FD3C95FC]\n\t(No symbol) [0x00007FF6FD413407]\n\t(No symbol) [0x00007FF6FD3EFFEF]\n\t(No symbol) [0x00007FF6FD410181]\n\t(No symbol) [0x00007FF6FD3EFD53]\n\t(No symbol) [0x00007FF6FD3BA0E3]\n\t(No symbol) [0x00007FF6FD3BB471]\n\tGetHandleVerifier [0x00007FF6FD8AF2FD+3366973]\n\tGetHandleVerifier [0x00007FF6FD8C12E0+3440672]\n\tGetHandleVerifier [0x00007FF6FD8B78ED+3401261]\n\tGetHandleVerifier [0x00007FF6FD64AAAB+858091]\n\t(No symbol) [0x00007FF6FD4EE74F]\n\t(No symbol) [0x00007FF6FD4EA304]\n\t(No symbol) [0x00007FF6FD4EA49D]\n\t(No symbol) [0x00007FF6FD4D8B69]\n\tBaseThreadInitThunk [0x00007FFD0716E8D7+23]\n\tRtlUserThreadStart [0x00007FFD080DFBCC+44]\n"
+}
