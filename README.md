@@ -6,6 +6,10 @@
 
 This project uses **WebdriverIO** in combination with **Appium** to automate mobile testing for Web browser and Android applications. It supports running tests on Android  real devices and Chrome browser on web.
 
+For these tests to work in Android Emulator, the version of the `chromedriver` (e.g. XXX.Y.ZZZZ) should match the version of the `Chrome App` (e.g. Chrome XXX.Y.ZZZZ).
+
+Make changes to wdio.conf.js file by adding the emulator capability instead of real device.
+
 ### Key Features:
 - Mobile web browser automation using **Appium** for **Android**.
 - **WebdriverIO** for browser automation.
