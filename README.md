@@ -14,7 +14,6 @@ Follow the steps below to set up the project locally:
 
 Clone the project to your local machine using Git:
 
-```bash
 git clone https://github.com/DeepthiProj/Wetherspoon_task.git
 cd Wetherspoon
 
@@ -22,13 +21,13 @@ cd Wetherspoon
 npm install
 npm install -g appium
 appium driver install uiautomator2
+npm install @wdio/allure-reporter --save-dev (if reporting is needed)
 
 Running Tests
 npx wdio run wdio.conf.js
 
 Running Allure Report
-allure generate allure-results ; allure open
+allure generate allure-results ; allure open (For Windows Power shell)
 
-Sample Allure report
-![image](https://github.com/user-attachments/assets/9bb620fa-ae04-4ce3-9702-c470ab232386)
+
 
