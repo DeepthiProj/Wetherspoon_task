@@ -15,6 +15,7 @@ Follow the steps below to set up the project locally:
 Clone the project to your local machine using Git:
 
 git clone https://github.com/DeepthiProj/Wetherspoon_task.git
+
 cd Wetherspoon
 
 ## Installation
