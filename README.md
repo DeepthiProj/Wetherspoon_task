@@ -19,14 +19,17 @@ cd Wetherspoon
 
 ## Installation
 npm install
+
 npm install -g appium
+
 appium driver install uiautomator2
+
 npm install @wdio/allure-reporter --save-dev (if reporting is needed)
 
-Running Tests
+## Running Tests
 npx wdio run wdio.conf.js
 
-Running Allure Report
+## Running Allure Report
 allure generate allure-results ; allure open (For Windows Power shell)
 
 
