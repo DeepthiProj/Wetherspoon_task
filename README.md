@@ -6,6 +6,13 @@
 
 This project uses **WebdriverIO** in combination with **Appium** to automate mobile testing for Web browser and Android applications. It supports running tests on Android  real devices and Chrome browser on web.
 
+### Key Features:
+- Mobile web browser automation using **Appium** for **Android**.
+- **WebdriverIO** for browser automation.
+- **Cucumber** for BDD-style test scenarios.
+- **Page Object Model (POM)** to structure the test code, keeping page-specific actions and assertions separate from the actual test logic.
+  
+
 ## Installation
 
 Follow the steps below to set up the project locally:
